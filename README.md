@@ -1,2 +1,2 @@
-Hello, namaku **Revand** Di github Aku Akan Membuat Discord Bot Setup Yang Kalian Bisa Install Di Bot 
+Hello, namaku **Revand** Di **Github** Aku Akan Membuat Discord Bot Setup Yang **Kalian Bisa Install Di Discord Bot Kalian**
 <hr>
